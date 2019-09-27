@@ -98,3 +98,13 @@
 (unity-panel-service:1591): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
 (unity-panel-service:1591): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1587): LIBDBUSMENU-GLIB-WARNING **: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/indicator/printers
+
+(unity-panel-service:1587): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1587): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1587): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1587): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed

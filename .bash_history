@@ -289,3 +289,162 @@ echo $MY_VAR
 cal 2019
 ls -l
 ps -aux
+systemctl stop sockets.target
+systemctl list-units | grep target 
+systemctl start sockets.target
+systemctl list-units | grep target 
+gedit thread1.c
+maN SLEEP
+man sleep
+man 3 sleep
+gedit thread1.c
+man pthread
+gedit thread1.c
+cc -lpthread thread1.c
+gedit thread1.c
+cc -lpthread thread1.c
+gedit thread1.c
+gcc thread1.c -lpthread
+./a.out
+gedit thread1.c
+gcc thread1.c -lpthread
+./a.out
+gedit thread1.c
+gcc thread1.c -lpthread
+./a.out
+gedit thread1.c
+man sleep
+man 3 sleep
+gcc thread1.c -lpthread
+./a.out
+man 3 sleep
+apropos pthread
+man 3 pthread_create
+gedit thread1.c
+gcc thread1.c -lpthread
+./a.out
+gedit thread1.c
+gcc thread1.c -lpthread
+./a.out
+gedit thread1.c
+gedit thread1.c&
+gcc thread1.c -lpthread
+./a.out
+time -o thread1.c
+man 3 pthread_join
+gedit thread2.c&
+gcc thread2.c -lpthread
+gedit thread2.c&
+gcc thread2.c -lpthread
+gedit thread2.c&
+gcc thread2.c -lpthread
+gedit thread1.c&
+gedit thread2.c&
+gcc thread2.c -lpthread
+gedit thread2.c&
+gcc thread2.c -lpthread
+./a.out
+gedit thread2.c&
+gcc thread2.c -lpthread
+./a.out
+gedit thread2.c&
+gcc thread2.c -lpthread
+./a.out
+gedit thread2.c&
+time -o thread2.c
+gedit max.c&
+gcc max.c
+./a.out
+gedit max.c&
+gcc max.c
+./a.out
+gedit max.c&
+gcc max.c
+./a.out
+time -o max.c
+gcc matmulthread.c
+gcc matmulthread.c -lpthread
+gedit matmulthread.c&
+gcc matmulthread.c -lpthread
+gedit matmulthread.c&
+cp matmulthread.c matmulthread.cpp
+gedit matmulthread.cpp&
+gcc matmulthread.c -lpthread
+gedit matmulthread.cpp&
+gcc matmulthread.c -lpthread
+gedit matmulthread.cpp&
+gcc matmulthread.c -lpthread
+gedit matmulthread.cpp&
+g++ matmulthread.c -lpthread
+gedit matmulthread.cpp&
+g++ matmulthread.c -lpthread
+gedit matmulthread.cpp&
+htop
+g++ matmulthread.c -lpthread
+gedit matmulthread.cpp&
+g++ -pthread matmulthread.cpp
+./a.out
+gedit matmulthread.cpp&
+g++ -pthread matmulthread.cpp
+gedit matmulthread.cpp&
+g++ -pthread matmulthread.cpp
+gedit matmulthread.cpp&
+g++ -pthread matmulthread.cpp
+./a.out
+gedit matmul.c
+g++ -pthread matmul.c
+./a.out
+time -o matmul.c
+time -o matmulthread.c
+gedit matmulthread.cpp&
+g++ -pthread matmulthread.cpp
+./a.out
+time -o matmulthread.c
+time -o matmulthread.cpp
+time  matmul.c
+time  matmulthread.c
+time  matmulthread
+man time
+
+man time
+time  matmul.c
+time  matmulthread.c
+time  matmul.c
+gedit matmulthread.cpp&
+gedit matmul.cpp&
+ls
+gedit matmul.cpp
+gedit matmul.c
+gedit matmulthread.cpp&
+gedit matmul.c
+gedit matmul.c&
+gedit matmulthread.cpp&
+g++ -pthread matmulthread.cpp
+./a.out
+gcc -pthread matmul.c
+cp matmul.c matmul.cp[p
+gedit matmulthread.cpp&
+g++ -pthread matmulthread.cpp
+./a.out
+ps -aux
+ps -T -p 27192
+ps -aux
+ps -T -p 27757
+ps -aux
+ps -T -p 27767
+ps -aux
+ps -T -p 27844
+ps -aux
+ps -T -p 28091
+ps -aux
+ps -T -p 28125
+git add .
+git status
+git add .
+git commit -m "linux"
+htop
+sudo apt install htop
+HTOP
+htop
+htop pol
+htop 

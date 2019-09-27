@@ -224,7 +224,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/matmulthread.cpp" added="2019-09-27T09:58:47Z" modified="2019-09-27T11:33:29Z" visited="2019-09-27T09:58:48Z">
+  <bookmark href="file:///home/student/matmulthread.cpp" added="2019-09-27T09:58:47Z" modified="2019-09-27T11:51:57Z" visited="2019-09-27T09:58:48Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-c++src"/>
@@ -232,7 +232,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T11:33:29Z" count="41"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T11:51:57Z" count="43"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -246,6 +246,19 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T11:31:27Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/file.c" added="2019-09-27T12:00:11Z" modified="2019-09-27T12:01:12Z" visited="2019-09-27T12:00:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T12:01:12Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>

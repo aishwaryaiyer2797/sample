@@ -3,7 +3,7 @@
 using namespace std; 
   
 // maximum size of matrix 
-#define MAX 100
+#define MAX 4
   
 // maximum number of threads 
 #define MAX_THREAD 100 

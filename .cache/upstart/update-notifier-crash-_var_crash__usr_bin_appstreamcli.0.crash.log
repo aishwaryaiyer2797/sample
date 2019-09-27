@@ -55,3 +55,6 @@ Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
 (system-crash-notification:30146): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
 
 (system-crash-notification:30146): GLib-GObject-CRITICAL **: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Fri Sep 27 17:34:43 IST 2019 crash report /var/crash/_usr_bin_appstreamcli.0.crash detected
+appstreamcli
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
