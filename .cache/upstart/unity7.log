@@ -84,3 +84,2978 @@ WARN  2019-09-19 14:43:17 unity.key.gnome.grabber GnomeKeyGrabber.cpp:94 Trying 
 WARN  2019-09-19 14:43:17 unity.key.gnome.grabber GnomeKeyGrabber.cpp:94 Trying to grab a disabled action, we skip it
 ERROR 2019-09-19 16:13:54 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
 ERROR 2019-09-19 17:00:36 unitysource != null <unknown>:0 g_value_set_object: assertion 'g_value_type_compatible (G_OBJECT_TYPE (v_object), G_VALUE_TYPE (value))' failed
+ERROR 2019-09-19 21:14:43 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-19 21:16:50 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-19 21:23:19 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-19 21:23:49 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-27 09:58:32 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-27 10:50:03 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-27 10:53:25 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+WARN  2019-09-27 11:37:49 unity.dash.view DashView.cpp:1263 Search failed  ''=> Timed out waiting for scope proxy connection
+WARN  2019-09-27 11:37:49 unity.dash.scopeproxy ScopeProxy.cpp:516 Could not search '' on home.scope => Timed out waiting for scope proxy connection
+WARN  2019-09-27 11:38:04 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+
+(webbrowser-app:25468): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:25468): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:25468): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: No such file or directory
+file:///usr/share/webbrowser-app/webbrowser/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/DownloadHandler.qml:20:1: module "Ubuntu.DownloadManager" is not installed
+Input device added: "Power Button" "/dev/input/event0" QFlags(0x1)
+Input device added: "VMware VMware Virtual USB Mouse" "/dev/input/event4" QFlags(0x2)
+Input device added: "AT Translated Set 2 keyboard" "/dev/input/event1" QFlags(0x1|0x10)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event3" QFlags(0x2)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event2" QFlags(0x2)
+shm_open() failed: Permission denied
+qml: Loaded 5 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+ERROR 2019-09-27 11:39:18 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+[PERFORMANCE]: Last frame took 438 ms to render.
+[0927/113919:ERROR:layer_tree_host_impl.cc(2263)] Forcing zero-copy tile initialization as worker context is missing
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+[PERFORMANCE]: Last frame took 58 ms to render.
+QNetworkManagerInterface::QNetworkManagerInterface(QObject*) propsReply "An AppArmor policy prevents this sender from sending this message to this recipient; type=\"method_call\", sender=\":1.245\" (uid=1000 pid=25468 comm=\"webbrowser-app \") interface=\"org.freedesktop.DBus.Properties\" member=\"GetAll\" error name=\"(unset)\" requested_reply=\"0\" destination=\"org.freedesktop.NetworkManager\" (uid=0 pid=764 comm=\"/usr/sbin/NetworkManager --no-daemon \")"
+QNetworkManagerInterface::QNetworkManagerInterface(QObject*) nmReply "An AppArmor policy prevents this sender from sending this message to this recipient; type=\"method_call\", sender=\":1.245\" (uid=1000 pid=25468 comm=\"webbrowser-app \") interface=\"org.freedesktop.NetworkManager\" member=\"GetDevices\" error name=\"(unset)\" requested_reply=\"0\" destination=\"org.freedesktop.NetworkManager\" (uid=0 pid=764 comm=\"/usr/sbin/NetworkManager --no-daemon \")"
+"Object path cannot be empty"
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+[PERFORMANCE]: Last frame took 98 ms to render.
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+ERROR 2019-09-27 11:43:44 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: [JS] (https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger276CchoiceData276Cdisplay276CgeoIP276CimpressionDiet276CkvStore276ClargeBannerLimit276ClegacySupport276CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging276CnavigationTiming276Cpopups276CwikimediaEvents%7Cext.quicksurveys.init276Clib%7Cext.uls.common276Ccompactlinks276Cinit276Cinterface276Cpreferences276Cwebfonts%7Cjquery276Coojs276Coojs-router276Csite%7Cjquery.client276Ccookie276CgetAttrs276ChighlightText276CmakeCollapsible276Csuggestions276CtabIndex276CtextSelection%7Cjquery.uls.data%7Cmediawiki.String276CTitle276CUri276Capi276Cbase276Ccldr276Ccookie276Cexperiments276CjqueryMsg276Clanguage276Cnotify276CsearchSuggest276Cstorage276Ctemplate276Ctoc276Cuser276Cutil276Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready276Cstartup%7Cmediawiki.template.regexp%7Cmediawiki.ui.button276Cicon%7Cmmv.bootstrap276Chead%7Cmmv.bootstrap.autostart%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1bce5:276) JQMIGRATE: Migrate is installed with logging active, version 3.0.1
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+[0927/115440:ERROR:layer_tree_host_impl.cc(2263)] Forcing zero-copy tile initialization as worker context is missing
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: Unloading background tab (http://overthewire.org/wargames/bandit/bandit9.html) to free up some memory
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[0927/115525:ERROR:layer_tree_host_impl.cc(2263)] Forcing zero-copy tile initialization as worker context is missing
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+[0927/115648:ERROR:layer_tree_host_impl.cc(2263)] Forcing zero-copy tile initialization as worker context is missing
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+qml: [JS] (:1) Uncaught SyntaxError: Illegal return statement
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: Unloading background tab (http://overthewire.org/wargames/bandit/bandit9.html) to free up some memory
+[0927/115658:ERROR:layer_tree_host_impl.cc(2263)] Forcing zero-copy tile initialization as worker context is missing
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: Unloading background tab (https://www.chatcrypt.com/) to free up some memory
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+[0927/115747:ERROR:layer_tree_host_impl.cc(2263)] Forcing zero-copy tile initialization as worker context is missing
+context mismatch in svga_sampler_view_destroy
+[0927/115747:ERROR:layer_tree_host_impl.cc(2263)] Forcing zero-copy tile initialization as worker context is missing
+context mismatch in svga_sampler_view_destroy
+qml: Unloading background tab (https://www.chatcrypt.com/) to free up some memory
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+ERROR 2019-09-27 12:01:22 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 12:21:28 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[PERFORMANCE]: Last frame took 141 ms to render.
+ERROR 2019-09-27 13:20:59 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 14:15:32 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 14:29:00 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 14:29:47 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 14:32:26 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 14:32:36 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 14:36:22 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 15:15:29 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 15:29:44 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 15:31:43 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 15:32:42 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 15:34:22 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 15:36:47 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+ERROR 2019-09-27 16:54:35 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
+qml: System low on memory, but unable to pick a tab to unload
