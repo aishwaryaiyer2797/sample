@@ -4,6 +4,7 @@
 
 //probe function
 //called on device insertion if and only if no other driver has beat us to the punch
+
 static int pen_probe(struct usb_interface *interface,const struct usb_device_id * id)
 {
 printk(KERN_INFO "[*] Pen drive (%04X:%04X) plugged\n",id->idVendor,id->idProduct);
@@ -66,6 +67,5 @@ module_init(pen_init);
 module_exit(pen_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Aishwarya");
 MODULE_DESCRIPTION("USB Pen Registration Driver");
 MODULE_VERSION("0.1");
