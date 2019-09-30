@@ -1,0 +1,1 @@
+cmd_/home/student/code/linux/kernel/stick_driver.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/student/code/linux/kernel/stick_driver.ko /home/student/code/linux/kernel/stick_driver.o /home/student/code/linux/kernel/stick_driver.mod.o
