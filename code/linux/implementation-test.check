@@ -1,4 +1,4 @@
-#include "implementation.h"
+#include "implementation1.h"
 
 #test sum2test
     fail_unless(sum(3, 2) == 10,"sum function borked");

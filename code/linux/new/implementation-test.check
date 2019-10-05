@@ -1,0 +1,7 @@
+#include "implementation.h"
+
+#test sum2test
+     fail_unless(fact(5) == 120, "true");
+     fail_unless(fact(1) == 99, "1==0");
+     fail_unless(fact(5) == 1, "5==120");
+     fail_unless(fact(1) == 1, "true");
