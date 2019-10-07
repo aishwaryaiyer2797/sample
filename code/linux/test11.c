@@ -7,7 +7,7 @@
 
 
 CHEAT_TEST(Recursion_Works,
-cheat_assert(factorial(2)==2);
+cheat_assert(factorial(0)==5);
 cheat_assert_not(factorial(5)==20);
 )
 
